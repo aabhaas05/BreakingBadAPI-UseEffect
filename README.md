@@ -31,7 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm install axios --save`
 
-If you get a compilation error of axios not found.\
+If you get a compilation error of axios not found.
 
 ### `npm run eject`
 
